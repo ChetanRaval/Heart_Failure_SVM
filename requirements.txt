@@ -1,1 +1,9 @@
-numpy==1.14.5
+numpy
+pandas
+seaborn
+matplotlib
+plotly.express
+plotly.graph_objects
+sklearn.linear_model
+sklearn.model_selection
+sklearn.tree
