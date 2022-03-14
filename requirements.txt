@@ -3,6 +3,4 @@ pandas
 seaborn
 matplotlib
 plotly.express
-sklearn.linear_model
-sklearn.model_selection
-sklearn.tree
+sklearn
